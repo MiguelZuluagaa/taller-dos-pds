@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../taller-dos" />
+        <option name="gradleJvm" value="jbr-11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../taller-dos" />
+            <option value="$PROJECT_DIR$/../taller-dos/admin-service" />
+            <option value="$PROJECT_DIR$/../taller-dos/booking-service" />
+            <option value="$PROJECT_DIR$/../taller-dos/config-service" />
+            <option value="$PROJECT_DIR$/../taller-dos/customer-service" />
+            <option value="$PROJECT_DIR$/../taller-dos/eureka-service" />
+            <option value="$PROJECT_DIR$/../taller-dos/gateway-service" />
+            <option value="$PROJECT_DIR$/../taller-dos/movie-service" />
+            <option value="$PROJECT_DIR$/../taller-dos/product-service" />
+            <option value="$PROJECT_DIR$/../taller-dos/shopping-service" />
+            <option value="$PROJECT_DIR$/../taller-dos/showtimes-service" />
+            <option value="$PROJECT_DIR$/../taller-dos/user-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="jbr-11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../taller-dos" />
+            <option value="$PROJECT_DIR$/../taller-dos/admin-service" />
+            <option value="$PROJECT_DIR$/../taller-dos/booking-service" />
+            <option value="$PROJECT_DIR$/../taller-dos/config-service" />
+            <option value="$PROJECT_DIR$/../taller-dos/customer-service" />
+            <option value="$PROJECT_DIR$/../taller-dos/eureka-service" />
+            <option value="$PROJECT_DIR$/../taller-dos/gateway-service" />
+            <option value="$PROJECT_DIR$/../taller-dos/movie-service" />
+            <option value="$PROJECT_DIR$/../taller-dos/product-service" />
+            <option value="$PROJECT_DIR$/../taller-dos/shopping-service" />
+            <option value="$PROJECT_DIR$/../taller-dos/showtimes-service" />
+            <option value="$PROJECT_DIR$/../taller-dos/user-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
